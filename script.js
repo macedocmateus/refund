@@ -41,4 +41,16 @@ form.onsubmit = (event) => {
         amount: amount.value,
         create_at: new Date(),
     }
+
+    // Chama a função para adicionar o item na lista
+    expenseAdd(newExpense)
+}
+
+function expenseAdd(newExpense) {
+    try {
+        
+    } catch (error) {
+        alert('Não foi possível adicionar a despesa na lista')
+        console.log(error);
+    }
 }
