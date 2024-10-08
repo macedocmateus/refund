@@ -1,0 +1,43 @@
+<h1 align="center"> 💲 Refund 💲</h1>
+
+<p align="center">
+Projeto pessoal utilizando conceitos HTML, CSS, Javascript e LocalStorage.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Interface de uma página de reembolso" src="./img/capa-readme.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+-   HTML e CSS
+-   Javascript
+-   LocalStorage (Firefox)
+-   Git e GitHub
+-   Figma
+
+## 💻 Projeto
+
+Refund é uma página web de reembolso ao usuário de acordo com uma compra ou serviço não autorizada ou desistente pelo usuário . Clique <a href="https://refund-six.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a> para testar a página.
+
+## 🎨 Layout
+
+Clique <a href="https://www.figma.com/design/ctjJMYLyUmKt0VHLwyhKrG/Sistema-de-reembolso-(Community)?node-id=0-1&node-type=canvas&t=YtwgWcVern3kUxAn-0">aqui</a> para conhecer a prototipagem do projeto.
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+Desenvolvido com ♥ by Mateus de Castro Macedo 👨‍💻
+</p>
